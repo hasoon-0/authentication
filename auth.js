@@ -1,1 +1,1 @@
-Chat.say(/pay shizzedonbyzxra 250m)
+Chat.say(/pay ShizzedOnByZxra 250m)
